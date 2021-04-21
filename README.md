@@ -1,11 +1,12 @@
 # -Butler-GroupF-Project1
-##Group project
+## Group project
  ideas
-•	Yelp business reviews
+~	Yelp business reviews
 •	Census Economic data
 •	OpenWeather.org
 •	WHO data freecodecamp
-Project Source
+------------------------------
+## Project Source
 https://www.kaggle.com/michaelacorley/unemployment-and-mental-illness-survey
 Unemployment and mental health survey questions
 •	Does mental health overall affect your income potential
